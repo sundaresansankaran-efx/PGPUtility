@@ -1,0 +1,206 @@
+{
+   "employerIdentifier": "10123",
+  "location": "00e0d09e-315b-444b-9e93-f192af81b462",
+  "formI9Version":"102119",
+  "formI9RevisionDate": "102119",
+  "vendorInfo": "",
+ "formI9ImageName": "AD_Missing_V5.tif",
+  "supportingDocuments":[ "Emp01_Sup1.tif", "Emp01_Sup2.tif", "Emp01_Sup3.tif" ],
+  "payrollFileName":"Emp01.txt",
+  "paperFormI9":
+   { 
+      "sectionOne": {
+                    "lastName": "Tester",
+                    "firstName": "Schema",
+                    "middleInitial": "C",
+                    "maidenName": "",
+                    "dateOfBirth": "",
+                    "address": "",
+                    "apartmentNumber": "",
+                    "city": "",
+                    "state": "",
+                    "zipCode": "",
+                    "email": "",
+                    "telephoneNumber": "",
+                    "socialSecurityNumber": "",
+                    "attestation":
+                     {
+                      "isUnitedStatesCitizen": false,
+                      "isNonCitizenNational": false,
+                      "isLawfulPermanentResident": false,
+                      "lawfulPermanentResident":
+                       {
+                        "alienRegistrationNumber": ""
+                       },
+                      "isAlienAuthorizedToWork": false,
+                      "alienAuthorizedToWork":
+                       {
+                        "expirationDate": "",
+                        "alienRegistrationNumber": "",
+                        "formI94AdmissionNumber": "",
+                        "foreignPassport":
+                         {
+                          "number": "N/A",
+                          "countryOfIssuance": ""
+                         }
+                       }
+                     },
+                    "isSigned": false,
+                    "signatureDate": "",
+                    "signatureValue": "",
+                    "preparerNotUsed": false,
+                    "preparerUsed": false,
+                    "preparer":
+                     {
+                      "lastName": "",
+                      "firstName": "",
+                      "streetAddress": "",
+                      "city": "",
+                      "state": "",
+                      "zipCode": "",
+                      "isSigned": false,
+                      "signatureDate": ""
+                     },
+                    "additionalPreparers":
+                     {
+                      "employee":
+                       {
+                        "lastName": "",
+                        "firstName": "",
+                        "middleInitial": ""
+                       },
+                      "preparers":
+                      [
+                       {
+                        "lastName": "",
+                        "firstName": "",
+                        "streetAddress": "",
+                        "city": "",
+                        "state": "",
+                        "zipCode": "",
+                        "isSigned": false,
+                        "signatureDate": ""
+                       },
+                       {
+                        "lastName": "",
+                        "firstName": "",
+                        "streetAddress": "",
+                        "city": "",
+                        "state": "",
+                        "zipCode": "",
+                        "isSigned": false,
+                        "signatureDate": ""
+                       },
+                       {
+                        "lastName": "",
+                        "firstName": "",
+                        "streetAddress": "",
+                        "city": "",
+                        "state": "",
+                        "zipCode": "",
+                        "isSigned": false,
+                        "signatureDate": ""
+                       },
+                       {
+                        "lastName": "",
+                        "firstName": "",
+                        "streetAddress": "",
+                        "city": "",
+                        "state": "",
+                        "zipCode": "",
+                        "isSigned": false,
+                        "signatureDate": ""
+                       }
+                      ]
+                     }
+                  },
+    "sectionTwo":
+      {
+       "listA":
+         {
+          "documentOne":
+            {
+             "documentTitle": "",
+             "issuingAuthority": "",
+             "documentNumber": "",
+             "expirationDate": ""
+            },
+          "documentTwo":
+            {
+             "documentTitle": "",
+             "issuingAuthority": "",
+             "documentNumber": "",
+             "expirationDate": ""
+            },
+          "documentThree":
+            {
+             "documentTitle": "",
+             "issuingAuthority": "",
+             "documentNumber": "",
+             "expirationDate": ""
+            }
+         },
+       "listB":
+         {
+          "documentTitle": "",
+          "issuingAuthority": "",
+          "documentNumber": "",
+          "expirationDate": ""
+         },
+       "listC":
+         {
+          "documentTitle": "",
+          "issuingAuthority": "",
+          "documentNumber": "",
+          "expirationDate": ""
+         },
+       "employee":
+         {
+          "lastName": "",
+          "firstName": "",
+          "middleInitial": "",
+          "citizenshipImmigrationStatus": "",
+          "hireDate": ""
+         },
+       "employerRepresentative":
+         {
+          "lastName": "",
+          "firstName": "",
+          "title": ""
+         },
+       "organization":
+         {
+          "name": "",
+          "address": "",
+          "city": "",
+          "state": "",
+          "zipCode": ""
+         },
+       "isSigned": false,
+       "signatureDate": "",
+       "additionalInformation": ""
+         },
+    "sectionThree":
+      {
+       "employee":
+         {
+          "lastName": "",
+          "firstName": "",
+          "middleInitial": ""
+         },
+       "rehireDate": "",
+       "document":
+         {
+          "title": "",
+          "number": "",
+          "expirationDate": ""
+         },
+       "isSigned": false,
+       "signatureDate": "",
+       "employerRepresentative":
+         {
+          "fullName": ""
+         }
+      }
+  }
+}
